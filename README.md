@@ -10,3 +10,12 @@ Huge thanks goes to Andrew Shaw (bearpelican) for the MusicAutoBot repo/code tha
 https://github.com/bearpelican
 
 https://github.com/bearpelican/musicautobot
+
+Some stats:
+
+Architecture Google XLNet (MusicAutoBot implementation with fast.ai)
+Model size: ~628Mb
+Training Dataset Size: ~287Mb
+Model training time: ~3 days on V100 GPU via Google Colab Pro
+Final Loss:
+Final Error Rate:
