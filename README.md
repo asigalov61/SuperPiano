@@ -23,7 +23,9 @@ Training Dataset Size: ~287Mb
 
 Model training time: ~3 days on V100 GPU via Google Colab Pro
 
-Final Loss:
+Final Loss: ~0.83
 
-Final Error Rate:
+Final Error Rate: ~27%
+
+You are welcome to train original model further or fine-tune it with your (smaller) MIDI set.
 
