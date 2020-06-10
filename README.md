@@ -21,7 +21,7 @@ Model size: ~628Mb
 
 Training Dataset Size: ~287Mb
 
-Model training time: ~3 days on V100 GPU via Google Colab Pro
+Model training time: ~3 days on P100 GPU via Google Colab Pro
 
 Final Loss: ~0.83
 
