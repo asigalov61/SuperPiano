@@ -1,31 +1,16 @@
-# SuperPiano
-Google Colab for training music AI model and generating music with Transformer technology (Google XLNet)
+### Super Piano and Super Piano 2 (SOTA XLNet Transformer Piano)
+Absolutely fantastic SOTA Google Colab (Jupiter) Notebooks to easily and quickly train a SOTA Music AI model and for generating music with Transformer technology (Google XLNet/Transformer-XL)
 
-<a href="https://colab.research.google.com/github/asigalov61/SuperPiano/blob/master/SuperPiano.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
-
-SUPER PIANO (XLNet Piano)
-
-Huge thanks goes to Andrew Shaw (bearpelican) for the MusicAutoBot repo/code that was used to create this notebook. This notebook is a fork of Andrew's notebook for MusicTransformer
-
-https://github.com/bearpelican
-
-https://github.com/bearpelican/musicautobot
-
+Huge thanks goes to creators of the original repos/code that made these amazing Notebooks possible :) Thank you very much and the credit is all yours :)
 
 Some stats:
 
 
-Architecture Google XLNet (MusicAutoBot implementation with fast.ai)
+Architecture Google XLNet/Transformer-XL (FastAI/PyTorch)
 
-Model size: ~628Mb
+You are welcome to train original models further or fine-tune them with your (smaller) MIDI dataset.
 
-Training Dataset Size: ~287Mb
+Thank you and enjoy these amazing Music AI Notebooks :)
 
-Model training time: ~3 days on P100 GPU via Google Colab Pro
-
-Final Loss: ~0.83
-
-Final Error Rate: ~27%
-
-You are welcome to train original model further or fine-tune it with your (smaller) MIDI set.
+Alex
 
