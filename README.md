@@ -1,4 +1,4 @@
-### Super Piano and Super Piano 2 (SOTA XLNet Transformer Piano)
+### Super Piano and Super Piano 2 (SOTA XLNet Transformer Piano Music AI Implementation)
 
 ![Super Piano](https://github.com/asigalov61/SuperPiano/raw/master/Super%20Piano%20Roll%201.png?raw=true)
 
