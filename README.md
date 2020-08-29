@@ -1,5 +1,5 @@
 # Super Piano
-## A SOTA Music AI Implementations Repo
+## SOTA Music AI Implementations Repo
 ### Built on Google XLNet/Transformer-XL SOTA AI Architecture)
 
 ![Super Piano](https://github.com/asigalov61/SuperPiano/raw/master/Super%20Piano%20Roll%201.png?raw=true)
