@@ -12,7 +12,7 @@ Huge thanks goes to creators of the original repos/code that made these amazing 
 
 ### 1) Super Piano Original
 
-This All-In-One Compsition Piano Colab/Model that is capable of either generating a perfomance or a pretty decent continuation of your own composition (Custom MIDI continuation option).
+This All-In-One Composition Piano Colab/Model that is capable of either generating a perfomance or a pretty decent continuation of your own composition (Custom MIDI continuation option).
 
 Recommended for every purpose as it can handle any Piano composition task.
 
