@@ -38,11 +38,9 @@ Recommended use: Perfomance generation based on a Histogram primer key. See inst
 
 SOTA Perfomance Colab/Model. This Piano is great for generating awesome perfomances from scratch and without any need to do anything.
 
-This Piano also pretty much a very close copy (or rather an reproduction of the Google Piano Trainsformer Paper/Model/Colab. Definitely check it out so that you can compare the output and reproducability with my implementation.
+This Piano also pretty much a very close copy (or rather a reproduction) of the Google Piano Trainsformer Paper/Model/Colab. Definitely check it out so that you can compare the output and reproducability with my implementation.
 
-Custom MIDI option also present but since it is a Performance model, it is not really designed to be controled or influenced.
-
-Coming soon is the Custom MIDI DataSet training option so that you can create a Piano Performance model based on your own compositions/DataSets, which is trully amazing and inspiring. :)
+Custom MIDI options also present but since it is a Performance model, it is not really designed to be controled or influenced.
 
 ## Some stats:
 
