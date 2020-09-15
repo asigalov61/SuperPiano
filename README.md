@@ -24,15 +24,13 @@ A better pre-trained model for this Piano will be coming very soon.
 
 ### 2) Super Piano 2
 
-This is by far the least capable of my Super Pianos. It is a simple Perfomance version of the Colab/Model, which has a histogram-based control option that produces very nice results. 
+This is by far the most capable of my Performance Super Pianos. Capable of super fast piano perfomances generation (any lenghs, any number of perfomances/batches).
 
-However, I personally like it least due to some serious issues with MIDI encoder, so do not expect any grandiose compositions out of it.
+This version also has a histogram-based control option that produces very nice results. 
 
-The upside is that you can train it on your own custom MIDI dataset. However, due to encoder problems you may get only average results at best.
+Does not work well with MAESTRO DataSet so please use provided Super Piano 2 MIDIs DataSet or use your own.
 
-Does not work well with MAESTRO DataSet due to the very same encoder issues.
-
-Recommended use: Perfomance generation based on a Histogram primer key. See instructions at the Generation Section in Colab where I provide examples.
+Recommended use: Batch/Monster Perfomance generation based on a Histogram primer key. See instructions at the Generation Section in Colab where I provide examples.
 
 ### 3) Super Piano 3
 
