@@ -40,7 +40,7 @@ This Piano also pretty much a very close copy (or rather a reproduction) of the 
 
 Custom MIDI options also present but since it is a Performance model, it is not really designed to be controled or influenced.
 
-### 3) Super Chamber Piano
+### 4) Super Chamber Piano
 
 Multi-instrumental LSTM Colab. This Piano is capable of playing either Piano or Violin. Other instruments can be added through the code if you like.
 
