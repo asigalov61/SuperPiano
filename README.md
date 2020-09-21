@@ -32,13 +32,19 @@ Does not work well with MAESTRO DataSet so please use provided Super Piano 2 MID
 
 Recommended use: Batch/Monster Perfomance generation based on a Histogram primer key. See instructions at the Generation Section in Colab where I provide examples.
 
-### 3) Super Piano 3
+### 3) Super Piano 3 [DOES NOT PLAY WELL DUE TO PROBLEMS WITH MIDI PROCESSOR and with some other stuff]
 
-SOTA Perfomance Colab/Model. This Piano is great for generating awesome perfomances from scratch and without any need to do anything.
+SOTA Perfomance Colab/Model.
 
 This Piano also pretty much a very close copy (or rather a reproduction) of the Google Piano Trainsformer Paper/Model/Colab. Definitely check it out so that you can compare the output and reproducability with my implementation.
 
 Custom MIDI options also present but since it is a Performance model, it is not really designed to be controled or influenced.
+
+### 3) Super Chamber Piano
+
+Multi-instrumental LSTM Colab. This Piano is capable of playing either Piano or Violin. Other instruments can be added through the code if you like.
+
+Works great and it is my only multi-instrumental Piano so far.
 
 ## Some stats:
 
