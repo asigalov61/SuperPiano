@@ -2,7 +2,7 @@
 ## SOTA Music AI Implementations Repo
 ### Built on Google XLNet/Transformer-XL SOTA AI Architecture)
 
-![Super Piano](https://github.com/asigalov61/SuperPiano/raw/master/Super%20Piano%20Roll%201.png?raw=true)
+![Super Piano](https://github.com/asigalov61/SuperPiano/raw/master/Super%20Chamber%20Piano%20Screenshot%201.png?raw=true)
 
 Absolutely fantastic SOTA Google Colab (Jupyter) Notebooks to easily and quickly train a SOTA Music AI model and for generating music with Transformer technology (Google XLNet/Transformer-XL)
 
@@ -55,4 +55,4 @@ You are welcome to train original models further or fine-tune them with your (sm
 Thank you and enjoy these amazing Music AI Notebooks :)
 
 Alex
-![Super Piano](https://github.com/asigalov61/SuperPiano/raw/master/Super%20Piano%20Roll%202.png?raw=true)
+![Super Piano](https://github.com/asigalov61/SuperPiano/raw/master/Super%20Chamber%20Piano%20Screenshot%202.png?raw=true)
