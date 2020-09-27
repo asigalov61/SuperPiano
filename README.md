@@ -10,13 +10,13 @@ Huge thanks goes to creators of the original repos/code that made these amazing 
 
 ## Description of each Super Piano Colab
 
-### [THE BEST] Super Chamber Piano
+### [THE BEST] Super Chamber Piano (Non-Transformer, pure LSTM, go figure :)
 
 Absolutely fantastic implementation of Chamber Piano that is capable of playing two instruments at once (Piano and Violin). Plays incredibly well and is capable of smooth continuations. Works well with Jazz as well. Check out screenshots, pre-trained model, and the dataset.
 
 Enjoy :)
 
-### 1) Super Piano Original (Non-Transformer, pure LSTM, go figure :)
+### 1) Super Piano Original 
 
 This All-In-One Composition Piano Colab/Model that is capable of either generating a perfomance or a pretty decent continuation of your own composition (Custom MIDI continuation option).
 
