@@ -16,7 +16,7 @@ Absolutely fantastic implementation of Chamber Piano that is capable of playing 
 
 Enjoy :)
 
-### 1) Super Piano Original
+### 1) Super Piano Original (Non-Transformer, pure LSTM, go figure :)
 
 This All-In-One Composition Piano Colab/Model that is capable of either generating a perfomance or a pretty decent continuation of your own composition (Custom MIDI continuation option).
 
