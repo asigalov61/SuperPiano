@@ -60,3 +60,5 @@ Thank you and enjoy these amazing Music AI Notebooks :)
 
 Alex
 ![Super Piano](https://github.com/asigalov61/SuperPiano/raw/master/Super%20Chamber%20Piano%20Screenshot%201.png?raw=true)
+
+[![Alex's github stats](https://github-readme-stats.vercel.app/api?username=asigalov61&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
